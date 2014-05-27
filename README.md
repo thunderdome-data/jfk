@@ -3,10 +3,11 @@ jfk
 
 What is this?
 -------------
-Decoding the Kennedy Assassination
+Decoding the Kennedy Assassination, a project examining the conspiracy theories behind John F. Kennedy's death, 50 years later.
 
 Live demo: http://data.digitalfirstmedia.com/jfk/
 
+![Screenshot](screenshots/jfk.png)
 
 Credits
 ---------
